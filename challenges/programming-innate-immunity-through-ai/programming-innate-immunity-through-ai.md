@@ -11,14 +11,15 @@ Design or analyze antibody structures using tools like iCn3D. This approach has 
 ​Immune Cell Image Analysis <br>
 Develop AI models to identify and quantify immune cells in histopathological images. The LYSTO hackathon, for instance, challenged participants to assess lymphocyte counts in cancer tissue samples, achieving pathologist-level accuracy. arXiv
 <br>
-
+<br>
 ​Vaccine Design Simulation <br>
 Utilize epitope prediction tools to design vaccines targeting emerging pathogens. This mirrors real-world applications where computational methods are used to predict immune responses and design effective vaccines.
 <br>
-
+<br>
 ​Immune System Modeling <br>
 Create simulations of immune responses using agent-based or system dynamics models. Such simulations can help in understanding complex immune interactions and have been highlighted as valuable educational tools. arXiv
-
+<br>
+<br>
 ​Autoimmune Disease Diagnostics <br>
 Develop algorithms to detect patterns in gene expression data associated with autoimmune diseases. This aligns with ongoing research efforts to understand and diagnose autoimmune conditions through computational analysis.
 
@@ -31,6 +32,7 @@ Develop algorithms to detect patterns in gene expression data associated with au
 <br>
 ​ImmPort (Immunology Database and Analysis Portal) <br>
 A flagship NIH-funded repository offering over 900 studies covering clinical trials, basic immunology, and systems biology. It includes tools for data analysis and supports reproducibility and data reuse. immport.org
+<br>
 <br>
 ​ImmuneSpace <br>
 Built on ImmPort data, ImmuneSpace provides curated, standardized datasets from the Human Immunology Project Consortium (HIPC), enabling comparative analysis across vaccine studies. Nature
