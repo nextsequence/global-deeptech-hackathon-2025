@@ -37,13 +37,9 @@ Connect with other builders. Get a chance to show off to customers and corporate
 <br> 
 <br> 
 ​• Network with AI x Biology development experts.
-
 ​​• Elevate your skills in cutting-edge AI technologies.
-
 ​​• Gain insights from industry leaders.
-
 ​​• Collaborate on impactful, real-world AI applications.
-
 ​​• Compete for exciting prizes.
 
 <br> 
