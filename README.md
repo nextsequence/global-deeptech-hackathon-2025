@@ -50,6 +50,11 @@ Connect with other builders. Get a chance to show off to customers and corporate
 2. Max team size: 4 <br> 
 3. Attendance is limited to approved registrants only.<br> 
 
+<br> 
+<br> 
+🏆 Prizes:
+We’re excited to reveal soon first, second, and third place prizes in compute hours in partnership with massive infrastructure service providers.
+
    
 
 
