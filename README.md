@@ -26,7 +26,7 @@ Join us in kicking off this global competition held through our series of Hackat
 
 <br> 
 <br> 
-WHY PARTICIPATE:
+❓  WHY PARTICIPATE:
 
 🎓 **Master or Phd Students / Early career :**
 Working on your PhD thesis? Want to show off one of your project ? Want to get feedback or insights ? Looking to join the next innovative startup ? <br> 
