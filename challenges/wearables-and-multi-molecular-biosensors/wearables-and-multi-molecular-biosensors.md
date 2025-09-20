@@ -82,6 +82,8 @@
 <br>
 ​If your work is broader—e.g. image-based perturbation profiling or AI-driven molecule generation—then: <br>
 ​Cell Painting Gallery and/or M³-20M offer deep, versatile datasets.
+<br>
+<br>
 
 ​Need help accessing these or integrating them into your research tools? Happy to assist further!
 
