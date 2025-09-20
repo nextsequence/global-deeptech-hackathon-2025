@@ -11,6 +11,7 @@
 ​
 
 ​What is are the neuroscience available datasets? <br>
+<br>
 ​🧠 General & Multimodal Datasets <br>
 
 ​OpenNeuro: A comprehensive platform offering over 1,400 public datasets across MRI, PET, MEG, EEG, and iEEG modalities. All datasets adhere to the BIDS standard, facilitating reproducibility and ease of use. openneuro.org <br>
@@ -19,6 +20,7 @@
 
 ​Allen Brain Atlas: Offers detailed gene expression maps and anatomical data for both mouse and human brains, supporting research in neuroanatomy and genomics. Wikipedia <br>
 
+<br>
 ​🧬 Specialized Datasets <br>
 
 ​Human Connectome Project (HCP): Provides extensive structural and functional brain imaging data from over 1,000 healthy adults, as well as lifespan and disease-specific cohorts. Wikipedia <br>
@@ -27,6 +29,7 @@
 
 ​Alzheimer’s Disease Neuroimaging Initiative (ADNI): Provides longitudinal MRI, PET, genetic, and clinical data to study the progression of Alzheimer's disease. Wikipedia <br>
 
+<br>
 ​🧩 Other Notable Resources <br>
 
 ​NeuroMorpho.Org: A curated repository of digitally reconstructed neurons from various species, brain regions, and cell types. neuinfo.org <br>
