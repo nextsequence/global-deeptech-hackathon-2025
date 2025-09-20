@@ -5,9 +5,8 @@
 <br>
 <br>
 ​What are the biomining available datasets? <br>
+<br>
 
-<br>
-<br>
 ​1. Rare Earth Element Biomining with Engineered E. coli <br>
 <br>
 ​What it is: Adsorption data for terbium (Tb) onto engineered E. coli with lanthanide-binding tags, tested across temperatures up to 100 °C in synthetic Great Salt Lake brine. Data is in Excel format with ICP-MS measurements. AmeriGEOSS DataData.gov <br>
