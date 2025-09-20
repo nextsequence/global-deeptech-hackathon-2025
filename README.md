@@ -47,10 +47,10 @@ Connect with other builders. Get a chance to show off to customers and corporate
 
 <br> 
 <br> 
-🧑‍💻 **RULES:**
-1. All submissions must include code in a public GitHub repository.
-2. Max team size: 4
-3. Attendance is limited to approved registrants only.
+🧑‍💻 RULES: <br> 
+1. All submissions must include code in a public GitHub repository.<br> 
+2. Max team size: 4 <br> 
+3. Attendance is limited to approved registrants only.<br> 
 
    
 
