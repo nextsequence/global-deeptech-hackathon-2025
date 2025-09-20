@@ -9,7 +9,7 @@ Join us for a global hackathon series to learn, train, and solve real-world prob
 📅 Date: Oct 2025 - June 2026 <br> 
 <br>
 📍 Worldwide: In-Person Hackathons <br> 
-
+<br>
 🚀 Roadmap:  <br> 
 . Sweden/Finland, Dec 2025, Slush  <br> 
 . Switzerland, March 2026, START Summit  <br> 
