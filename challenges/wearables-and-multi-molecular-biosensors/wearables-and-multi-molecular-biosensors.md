@@ -3,9 +3,13 @@
 <br>
 🧩 Suggested Themes & Challenges: <br>
 ​Provide optional thematic tracks to guide students and encourage focused innovation:<br>
+<br>
 ​Health Diagnostics: e.g., detecting biomarkers like glucose, cortisol, viruses, toxins.<br>
+<br>
 ​Environmental Monitoring: e.g., multi-target detection of pollutants, heavy metals, or toxins (think multi-mycotoxin detection like OTA in wine using graphene aptamersarXiv).<br>
+<br>
 ​Food Safety & Agriculture: e.g., detect pathogens, allergens, or food spoilage markers.<br>
+<br>
 ​Wearables & IoT Integration: e.g., continuous monitoring via wearables or deployable sensor systems.<br>
 
 ​<br>
