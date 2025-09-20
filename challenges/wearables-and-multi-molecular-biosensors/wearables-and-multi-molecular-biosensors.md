@@ -73,9 +73,13 @@
 <br>
 ​Recommendation <br>
 ​If you're specifically focused on multi-molecular TF-based biosensors, start with: <br>
+<br>
 ​Koch et al. (2018) dataset – solid foundation, manually curated. <br>
+<br>
 ​Sensbio – excellent next step with enhanced querying and predictive modeling. <br>
+<br>
 ​Table of Biosensors (2022) – adds real experimental response data, sequences. <br>
+<br>
 ​If your work is broader—e.g. image-based perturbation profiling or AI-driven molecule generation—then: <br>
 ​Cell Painting Gallery and/or M³-20M offer deep, versatile datasets.
 
