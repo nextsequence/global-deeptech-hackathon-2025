@@ -4,7 +4,7 @@
 ​
 <br>
 <br>
-​What is are biomining available datasets? <br>
+​What are the biomining available datasets? <br>
 
 <br>
 <br>
