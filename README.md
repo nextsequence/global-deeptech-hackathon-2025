@@ -20,7 +20,7 @@ Join us for a global hackathon series to learn, train, and solve real-world prob
 💡 WHAT IS IT?: <br> 
 Join us in kicking off this global competition held through our series of Hackathon from New York, London, Paris, all the way to Hong Kong to build and show off your best AI models and agents for Biology: 
 
-. **Open Hack competition:** Where students, founders, compete to expose the best models and agents to our corporate partners
+. **Open Hack competition:** Where students, founders, compete to expose the best models and agents to our corporate partners <br> 
 . **Build by Hackers Talks:** Where our best AIxBiology founders share their experience in building at the edge
 
 
@@ -29,7 +29,7 @@ Join us in kicking off this global competition held through our series of Hackat
 WHY PARTICIPATE:
 
 🎓 **Master or Phd Students / Early career :**
-Working on your PhD thesis? Want to show off one of your project ? Want to get feedback or insights ? Looking to join the next innovative startup ?
+Working on your PhD thesis? Want to show off one of your project ? Want to get feedback or insights ? Looking to join the next innovative startup ? <br> 
 🛠️ **Entrepreneurs / Founders:**
 Connect with other builders. Get a chance to show off to customers and corporates.
 
