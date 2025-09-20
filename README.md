@@ -8,7 +8,22 @@ Join us for a global hackathon series to learn, train, and solve real-world prob
 <br> 
 📅 Date: Oct 2025 - June 2026 <br> 
 📍 Worldwide: In-Person Hackathons <br> 
-🚀 Register: 
+🚀 Roadmap: 
+. Sweden/Finland, Dec 2025, Slush  <br> 
+. Switzerland, March 2026, START Summit  <br> 
+. Bangalore, March 2026, NVIDIA GTC  <br> 
+. Saudi Arabia; March 2026: LEAP  <br> 
+. Austin, March 2026, SXSW  <br> 
+. Brazil, April 2026, Web Summit  <br> 
+. Paris, May 2026, VivaTech  <br> 
+. China, May 2026, Beyond Expo  <br> 
+. London, June 2026, London TechWeek  <br> 
+. NY, June 2026, a16z Tech Week NY  <br> 
+. Hong Kong, July 2026, LEAP South East Asia  <br> 
+. South Africa, Sept 2026, AWS Summit  <br> 
+. Munich, Sept 2026, Bits and Bretzel  <br> 
+
+
 <br> 
 <br> 
 <br> 
