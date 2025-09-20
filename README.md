@@ -5,11 +5,11 @@
 Are you ready to discover how Biology can be accelerated with AI? 🌟 
 Join us for a global hackathon series to learn, train, and solve real-world problems using open-source technologies!
 
-<space>
+
 📅 Date: Oct 2025 - June 2026
 
 📍 Worldwide: In-Person Hackathons
-<space>
+
 
 
 🎥 **KICKOFF VIDEO:**
