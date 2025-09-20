@@ -23,6 +23,9 @@ Join us for a global hackathon series to learn, train, and solve real-world prob
 . South Africa, Sept 2026, AWS Summit  <br> 
 . Munich, Sept 2026, Bits and Bretzel  <br> 
 
+Want to add help manage the competition ? Want to add your own country to the map ? 
+Join us and Become an Ambassador !
+Here: 
 
 <br> 
 <br> 
