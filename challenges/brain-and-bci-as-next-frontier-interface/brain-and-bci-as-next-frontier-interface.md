@@ -2,6 +2,7 @@
 <br>
 <br>
 ​​🧩 Suggested Themes & Challenges:<br>
+<br>
 ​Brain-Computer Interfaces (BCIs): Develop applications that allow direct communication between the brain and external devices.<br>
 
 ​Neurodata Visualization: Create tools to visualize complex neural datasets for research or educational purposes.<br>
@@ -11,6 +12,7 @@
 ​
 
 ​What is are the neuroscience available datasets? <br>
+<br>
 <br>
 ​🧠 General & Multimodal Datasets <br>
 
