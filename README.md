@@ -10,6 +10,7 @@ Join us for a global hackathon series to learn, train, and solve real-world prob
 📍 Worldwide: In-Person Hackathons
 <br> 
 <br> 
+<br> 
 
 🎥 **KICKOFF VIDEO:**
 
@@ -43,7 +44,8 @@ Connect with other builders. Get a chance to show off to customers and corporate
 
 ​​• Compete for exciting prizes.
 
-
+<br> 
+<br> 
 
 🧑‍💻 **RULES:**
 1. All submissions must include code in a public GitHub repository.
