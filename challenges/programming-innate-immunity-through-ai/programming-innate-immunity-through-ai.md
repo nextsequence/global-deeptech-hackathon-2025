@@ -10,9 +10,11 @@ Design or analyze antibody structures using tools like iCn3D. This approach has 
 <br>
 ​Immune Cell Image Analysis <br>
 Develop AI models to identify and quantify immune cells in histopathological images. The LYSTO hackathon, for instance, challenged participants to assess lymphocyte counts in cancer tissue samples, achieving pathologist-level accuracy. arXiv
+<br>
 
 ​Vaccine Design Simulation <br>
 Utilize epitope prediction tools to design vaccines targeting emerging pathogens. This mirrors real-world applications where computational methods are used to predict immune responses and design effective vaccines.
+<br>
 
 ​Immune System Modeling <br>
 Create simulations of immune responses using agent-based or system dynamics models. Such simulations can help in understanding complex immune interactions and have been highlighted as valuable educational tools. arXiv
