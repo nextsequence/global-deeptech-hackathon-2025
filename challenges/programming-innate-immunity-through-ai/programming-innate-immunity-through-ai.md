@@ -25,6 +25,7 @@ Develop algorithms to detect patterns in gene expression data associated with au
 
 <br>
 <br>
+<br>
 ​What is are the immunology available datasets? <br>
 <br>
 ​🧬 Comprehensive Immunology Data Portals:
@@ -57,11 +58,13 @@ Offers insights into gene regulation within human immune cells, aiding in the un
 
 <br>
 <br>
+<br>
 ​📊 AI-Ready and Longitudinal Datasets: <br>
 <br>
 ​HR-VILAGE-3K3M <br>
 An extensive dataset comprising over 14,000 RNA-seq profiles from 3,178 subjects across 66 studies. It includes data from vaccinations, inoculations, and natural infections, standardized for AI applications. arXiv
 
+<br>
 <br>
 <br>
 ​🧠 Additional Resources: <br>
