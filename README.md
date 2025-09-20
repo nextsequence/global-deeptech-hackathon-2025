@@ -40,7 +40,7 @@ Connect with other builders. Get a chance to show off to customers and corporate
 ​​• Elevate your skills in cutting-edge AI technologies. <br> 
 ​​• Gain insights from industry leaders. <br> 
 ​​• Collaborate on impactful, real-world AI applications.<br> 
-​​• Compete for exciting prizes.
+​​• Compete for exciting prizes.<br> 
 
 <br> 
 <br> 
