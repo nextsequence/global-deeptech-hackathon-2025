@@ -39,7 +39,7 @@ An open-access portal offering longitudinal multi-omics data from studies on imm
 <br>
 <br>
 ​🔬 Specialized Datasets for Targeted Research: <br>
-
+<br>
 ​Immune Epitope Database (IEDB)  <br>
 A comprehensive resource for antibody and T cell epitopes across various species, including humans. It supports vaccine design, allergy research, and autoimmunity studies, with integrated prediction tools. Wikipedia
 
