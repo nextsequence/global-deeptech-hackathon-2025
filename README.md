@@ -1,9 +1,9 @@
 # README :
 
 
-🚀 Join the Global DeepTech Hackathon - AI x BIO Global Challenge by Next Sequence! 🌍 
-Are you ready to discover how Biology can be accelerated with AI? 🌟 
-Join us for a global hackathon series to learn, train, and solve real-world problems using open-source technologies!
+🚀 Join the Global DeepTech Hackathon - AI x BIO Global Challenge by Next Sequence! 🌍      
+Are you ready to discover how Biology can be accelerated with AI? 🌟      
+Join us for a global hackathon series to learn, train, and solve real-world problems using open-source technologies!      
 
 
 📅 Date: Oct 2025 - June 2026
