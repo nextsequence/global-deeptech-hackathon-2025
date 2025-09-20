@@ -48,7 +48,7 @@ A comprehensive resource for antibody and T cell epitopes across various species
 ​Immunological Genome Project (ImmGen) <br>
 Focuses on mouse immune cells, providing gene expression profiles across different cell types and states. It's instrumental for studying immune cell differentiation and regulatory networks. immgen.org
 <br>
-
+<br>
 ​Database of Immune Cell Epigenomes (DICE) <br>
 Offers insights into gene regulation within human immune cells, aiding in the understanding of gene expression control mechanisms. lji.org
 
