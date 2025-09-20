@@ -7,7 +7,7 @@ Join us for a global hackathon series to learn, train, and solve real-world prob
 
 <br> 
 📅 Date: Oct 2025 - June 2026 <br> 
-
+<br>
 📍 Worldwide: In-Person Hackathons <br> 
 
 🚀 Roadmap:  <br> 
