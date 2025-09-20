@@ -59,6 +59,7 @@ An extensive dataset comprising over 14,000 RNA-seq profiles from 3,178 subjects
 <br>
 <br>
 ​🧠 Additional Resources: <br>
+<br>
 
 ​BioGPS: Offers a variety of immune-related gene expression datasets with interactive visualization tools. biogps.org <br>
 
