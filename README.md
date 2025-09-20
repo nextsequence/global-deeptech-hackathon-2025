@@ -54,6 +54,7 @@ We’re excited to reveal soon first, second, and third place prizes in compute 
 
 <br> 
 <br> 
+<br> 
 📖 RESSOURCES: <br> 
 🤗 Documentation:  <br> 
 👥 Join our Discord: 
