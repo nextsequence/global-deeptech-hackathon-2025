@@ -3,26 +3,23 @@
 <br>
 <br>
 🧩 Suggested Themes & Challenges: <br>
+<br>
 ​Offer 3–4 focused tracks, drawing inspiration from existing hackathons like the Harvard Rare Disease Hackathon HARVARD RARE DISEASE HACKATHON: <br>
 
 <br>
 ​Genomic Diagnostics in Dermatology <br>
-<br>
 ​Create tools to analyze variants for skin disease diagnosis.<br>
 
 <br>
 ​Spatial & Single-Cell Skin Omics <br>
-<br>
 ​Utilize tools like Tangram, CellChat, spatialLIBD to explore skin spatial transcriptomics skincenter.uci.edu. <br>
 
 <br>
 ​AI for Skin Lesion Analysis <br>
-<br>
 ​Build apps or models for lesion classification, inspired by Skinskan’s melanoma detection model GitHub. <br>
 
 <br>
 ​Ethics, Equity & Data Privacy in Skin Genomics <br>
-<br>
 ​Address biases in genomic datasets or explore the ethics and privacy implications in skin genetics analysis. <br>
 <br>
 <br>
