@@ -3,9 +3,11 @@
 <br>
 <br>
 🧩 Suggested Themes & Challenges: <br>
+<br>
 ​Antibody Engineering <br>
 Design or analyze antibody structures using tools like iCn3D. This approach has been successfully implemented in previous hackathons, where students investigated commercially available anti-spike protein antibodies and assessed their effectiveness against SARS-CoV-2 variants. Micro Nano Technology Education Center
 
+<br>
 ​Immune Cell Image Analysis <br>
 Develop AI models to identify and quantify immune cells in histopathological images. The LYSTO hackathon, for instance, challenged participants to assess lymphocyte counts in cancer tissue samples, achieving pathologist-level accuracy. arXiv
 
