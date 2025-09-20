@@ -24,7 +24,7 @@
 
 <br>
 ​🧬 Specialized Datasets <br>
-
+<br>
 ​Human Connectome Project (HCP): Provides extensive structural and functional brain imaging data from over 1,000 healthy adults, as well as lifespan and disease-specific cohorts. Wikipedia <br>
 
 ​MICrONS Dataset: Features a detailed connectome of a mouse visual cortex, including data from 76,000 neurons and over 500 million synapses, offering insights into neural circuitry. Live Science <br>
@@ -33,7 +33,7 @@
 
 <br>
 ​🧩 Other Notable Resources <br>
-
+<br>
 ​NeuroMorpho.Org: A curated repository of digitally reconstructed neurons from various species, brain regions, and cell types. neuinfo.org <br>
 
 ​BOLD5000: An fMRI dataset containing responses to nearly 5,000 images, useful for studies in visual perception and computational modeling. arXiv <br>
