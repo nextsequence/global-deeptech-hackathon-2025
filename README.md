@@ -24,7 +24,8 @@ Join us in kicking off this global competition held through our series of Hackat
 . **Build by Hackers Talks:** Where our best AIxBiology founders share their experience in building at the edge
 
 
-
+<br> 
+<br> 
 **​​WHY PARTICIPATE:**
 
 🎓 **Master or Phd Students / Early career :**
@@ -46,7 +47,6 @@ Connect with other builders. Get a chance to show off to customers and corporate
 
 <br> 
 <br> 
-
 🧑‍💻 **RULES:**
 1. All submissions must include code in a public GitHub repository.
 2. Max team size: 4
