@@ -52,7 +52,7 @@ Connect with other builders. Get a chance to show off to customers and corporate
 
 <br> 
 <br> 
-🏆 Prizes:
+🏆 Prizes: <br> 
 We’re excited to reveal soon first, second, and third place prizes in compute hours in partnership with massive infrastructure service providers.
 
    
