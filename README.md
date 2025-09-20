@@ -25,7 +25,7 @@ Connect with other builders. Get a chance to show off to customers and corporate
 ​​• Collaborate on impactful, real-world AI applications.
 ​​• Compete for exciting prizes.
 
-🧑‍💻 RULES;
+🧑‍💻 RULES:
 1. All submissions must include code in a public GitHub repository.
 2. Max team size: 4
 3. Attendance is limited to approved registrants only.
